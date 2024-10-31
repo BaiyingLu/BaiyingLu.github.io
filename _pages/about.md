@@ -8,17 +8,15 @@ profile:
   align: right
   image: baiying_newheadshot.JPG
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  more_info: >
+    <p>HealthX Lab, ECSC 004</p>
+    <p>Dartmouth College</p>
+    <p>Hanover, NH 03784</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-# About me
 
 I am currently a Ph.D. candidate at [Augmented Health Lab](https://www.ah-lab.cs.dartmouth.edu/){:target="_blank"} at Dartmouth College, working with [Prof. Temiloluwa Prioleau](https://faculty-directory.dartmouth.edu/temiloluwa-o-prioleau). I did my M.S. at Duke University - Biomedical Engineering, used to work with [Prof. Jessilyn Dunn](https://bme.duke.edu/people/jessilyn-dunn/) at [Big Ideas Lab](https://dunn.pratt.duke.edu/).
 
