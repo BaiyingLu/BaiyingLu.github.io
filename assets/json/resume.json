@@ -51,21 +51,6 @@
       "endDate": "2019-06"
     }
   ],
-  "publications": [
-    {
-      "name": "Mealtime prediction using wearable insulin pump data to support diabetes management",
-      "publisher": "Scientific Reports",
-      "releaseDate": "2024-09",
-      "url": "https://www.nature.com/articles/s41598-024-71630-w"
-    },
-    {
-      "name": "Biosignal compression toolbox for digital biomarker discovery",
-      "publisher": "Sensors",
-      "releaseDate": "2021",
-      "url": "https://www.mdpi.com/1424-8220/21/2/516",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    }
-  ],
   "languages": [
     {
       "language": "Manderin",
