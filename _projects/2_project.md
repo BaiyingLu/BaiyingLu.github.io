@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Mealtime Prediction
 description: Using pump data to predict meal time of people with diabetes
@@ -25,7 +25,7 @@ before meal consumption to reduce the occurrence of post-meal high blood glucose
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mealpred.png" title="mealpred" class="img-fluid rounded mx-auto d-block z-depth-1" width="90%" %}
     </div>
-</div>
+</div> -->
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
