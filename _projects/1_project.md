@@ -13,14 +13,14 @@ Wearable and mobile devices enable continuous monitoring of individualized physi
 
 Ongoing User Study: Our team is actively running a user study on this project. We invite anyone over 18 years of age, who has diabetes, uses a Dexcom continuous glucose monitor, and an Android mobile phone to consider participating. Please email ah-lab@dartmouth.edu to learn more and sign up!
 
-<div class="caption">
-    HealthMine blood glucose variation UI
-</div>
-<div class="text-center">
+<!-- <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/healthminescreenshot.png" title="example image" class="img-fluid rounded mx-auto d-block z-depth-1" width="30%" %}
+        {% include figure.liquid loading="eager" path="assets/img/healthminescreenshot.png" title="example image" class="img-fluid rounded z-depth-1" width="30%" %}
     </div>
 </div>
+<div class="caption">
+    HealthMine blood glucose variation UI
+</div> -->
 
 <!-- 
 <div class="row">
